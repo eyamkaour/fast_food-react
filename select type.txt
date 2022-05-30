@@ -1,0 +1,67 @@
+ {
+ 
+scat.map((spec)=>
+(
+     <select onChange={e => setscat(e.target.value)}>
+         <label>les types </label>
+ <option for s in spec key={spec._id}
+value={spec._id} >{spec.nom}</option>
+ 
+ </select>
+))
+}
+ function ListTypeMenu()
+        { 
+          
+    
+                API.get('/api/types/')
+                .then(res=>{
+                    setscat(res.data)
+                    
+                })
+                .catch(function(error){
+                    console.log(error)
+        
+                })
+                console.log(scat);
+           
+        }  ;  
+
+           const [typeMenu,settypeMenu]=useState([ ]) 
+           
+
+
+
+
+ListMenu :
+
+            <TableContainer component={Paper}>
+       
+        <Table sx={{ minWidth: 700 }} aria-label="customized table">
+        <TableHead>
+            <TableRow>
+            <StyledTableCell><b>Nom </b> </StyledTableCell>
+            <StyledTableCell><b>Designation </b> </StyledTableCell>
+            <StyledTableCell><b>Prix </b> </StyledTableCell>
+            <StyledTableCell align="right"><b>images</b></StyledTableCell>
+      
+
+            </TableRow>
+        </TableHead>
+        <TableBody>
+            {scat.map((row) => (
+            <StyledTableRow key={row._id}>
+                <StyledTableCell align="right">{row.nom}</StyledTableCell>
+                <StyledTableCell align="right">{row.designation}</StyledTableCell>
+                <StyledTableCell align="right">{row.prix}</StyledTableCell>
+                <StyledTableCell align="right"><img src={`/images/${row.imageMenu}`} width="300"/></StyledTableCell>
+               
+              
+            </StyledTableRow>
+            ))}
+        </TableBody>
+        </Table>
+    </TableContainer>
+    )
+}
+export default Menus;

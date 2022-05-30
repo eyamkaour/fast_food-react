@@ -1,0 +1,16 @@
+[
+    {
+      "id": 3,
+      "type": "Fast food",
+      "imagetype": "creer-un-fast-food.jpg",
+      "created_at": "2022-04-28T22:53:25.000000Z",
+      "updated_at": "2022-04-28T22:53:25.000000Z"
+    },
+    {
+      "id": 1,
+      "type": " gâteaux",
+      "imagetype": "les gateaux.jpg",
+      "created_at": "2022-04-28T17:20:38.000000Z",
+      "updated_at": "2022-04-29T15:35:04.000000Z"
+    }
+  ]

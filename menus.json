@@ -1,0 +1,1100 @@
+[
+  {
+    "id": 62,
+    "nom": "makloub sqalop",
+    "designation": "makloubsqalop",
+    "prix": "5.5dt",
+    "categorieID": "10",
+    "imageMenu": "makloubsqalop.jpg",
+    "created_at": "2022-04-30T01:10:33.000000Z",
+    "updated_at": "2022-04-30T14:33:49.000000Z",
+    "categories": {
+      "id": 10,
+      "nomcategorie": "makloub",
+      "imagecategorie": "makloub.jpg",
+      "created_at": "2022-04-29T15:22:58.000000Z",
+      "updated_at": "2022-04-29T15:33:02.000000Z",
+      "typeId": 3
+    }
+  },
+  {
+    "id": 61,
+    "nom": "makloub emlet",
+    "designation": "makloub emlet",
+    "prix": "2.5dt",
+    "categorieID": "10",
+    "imageMenu": "makloubemlet.jpg",
+    "created_at": "2022-04-30T01:09:21.000000Z",
+    "updated_at": "2022-04-30T14:34:33.000000Z",
+    "categories": {
+      "id": 10,
+      "nomcategorie": "makloub",
+      "imagecategorie": "makloub.jpg",
+      "created_at": "2022-04-29T15:22:58.000000Z",
+      "updated_at": "2022-04-29T15:33:02.000000Z",
+      "typeId": 3
+    }
+  },
+  {
+    "id": 60,
+    "nom": "makloub Thon",
+    "designation": "makloub Thon",
+    "prix": "4.5dt",
+    "categorieID": "10",
+    "imageMenu": "makloubThon.jpg",
+    "created_at": "2022-04-30T01:08:49.000000Z",
+    "updated_at": "2022-04-30T14:35:07.000000Z",
+    "categories": {
+      "id": 10,
+      "nomcategorie": "makloub",
+      "imagecategorie": "makloub.jpg",
+      "created_at": "2022-04-29T15:22:58.000000Z",
+      "updated_at": "2022-04-29T15:33:02.000000Z",
+      "typeId": 3
+    }
+  },
+  {
+    "id": 59,
+    "nom": "makloubSalade",
+    "designation": "makloubSalade",
+    "prix": "3.5dt",
+    "categorieID": "10",
+    "imageMenu": "makloubSalade.jpg",
+    "created_at": "2022-04-30T01:08:14.000000Z",
+    "updated_at": "2022-04-30T14:35:56.000000Z",
+    "categories": {
+      "id": 10,
+      "nomcategorie": "makloub",
+      "imagecategorie": "makloub.jpg",
+      "created_at": "2022-04-29T15:22:58.000000Z",
+      "updated_at": "2022-04-29T15:33:02.000000Z",
+      "typeId": 3
+    }
+  },
+  {
+    "id": 58,
+    "nom": "mlewi salami",
+    "designation": "mlewi salami",
+    "prix": "2.5dt",
+    "categorieID": "9",
+    "imageMenu": "mlewi salami.jpg",
+    "created_at": "2022-04-30T01:06:10.000000Z",
+    "updated_at": "2022-04-30T01:06:10.000000Z",
+    "categories": {
+      "id": 9,
+      "nomcategorie": "mlewi",
+      "imagecategorie": "mlewi.jpg",
+      "created_at": "2022-04-29T15:22:04.000000Z",
+      "updated_at": "2022-04-29T15:35:52.000000Z",
+      "typeId": 3
+    }
+  },
+  {
+    "id": 57,
+    "nom": "mlewi thon",
+    "designation": "mlewi thon",
+    "prix": "4.5dt",
+    "categorieID": "9",
+    "imageMenu": "mlewi thon.jpg",
+    "created_at": "2022-04-30T01:05:36.000000Z",
+    "updated_at": "2022-04-30T01:05:36.000000Z",
+    "categories": {
+      "id": 9,
+      "nomcategorie": "mlewi",
+      "imagecategorie": "mlewi.jpg",
+      "created_at": "2022-04-29T15:22:04.000000Z",
+      "updated_at": "2022-04-29T15:35:52.000000Z",
+      "typeId": 3
+    }
+  },
+  {
+    "id": 56,
+    "nom": "mlewi scalop",
+    "designation": "mlewi scalop",
+    "prix": "5.5dt",
+    "categorieID": "9",
+    "imageMenu": "mlewi scalop.jpg",
+    "created_at": "2022-04-30T01:05:12.000000Z",
+    "updated_at": "2022-04-30T01:05:12.000000Z",
+    "categories": {
+      "id": 9,
+      "nomcategorie": "mlewi",
+      "imagecategorie": "mlewi.jpg",
+      "created_at": "2022-04-29T15:22:04.000000Z",
+      "updated_at": "2022-04-29T15:35:52.000000Z",
+      "typeId": 3
+    }
+  },
+  {
+    "id": 55,
+    "nom": "mlewi salade",
+    "designation": "mlewi salade",
+    "prix": "4.5dt",
+    "categorieID": "9",
+    "imageMenu": "mlewi salade.jpg",
+    "created_at": "2022-04-30T01:04:19.000000Z",
+    "updated_at": "2022-04-30T01:04:19.000000Z",
+    "categories": {
+      "id": 9,
+      "nomcategorie": "mlewi",
+      "imagecategorie": "mlewi.jpg",
+      "created_at": "2022-04-29T15:22:04.000000Z",
+      "updated_at": "2022-04-29T15:35:52.000000Z",
+      "typeId": 3
+    }
+  },
+  {
+    "id": 54,
+    "nom": "chapati emlet",
+    "designation": "chapati emlet",
+    "prix": "1.5dt",
+    "categorieID": "11",
+    "imageMenu": "chapati-tunisien-emlet.jpg",
+    "created_at": "2022-04-30T00:39:39.000000Z",
+    "updated_at": "2022-04-30T00:39:39.000000Z",
+    "categories": {
+      "id": 11,
+      "nomcategorie": "chapati",
+      "imagecategorie": "chapati.jpg",
+      "created_at": "2022-04-29T15:23:50.000000Z",
+      "updated_at": "2022-04-29T15:32:15.000000Z",
+      "typeId": 3
+    }
+  },
+  {
+    "id": 53,
+    "nom": "chapati viande",
+    "designation": "chapati viande",
+    "prix": "5.6 dt",
+    "categorieID": "11",
+    "imageMenu": "chapati viande.jpg",
+    "created_at": "2022-04-30T00:38:57.000000Z",
+    "updated_at": "2022-04-30T00:38:57.000000Z",
+    "categories": {
+      "id": 11,
+      "nomcategorie": "chapati",
+      "imagecategorie": "chapati.jpg",
+      "created_at": "2022-04-29T15:23:50.000000Z",
+      "updated_at": "2022-04-29T15:32:15.000000Z",
+      "typeId": 3
+    }
+  },
+  {
+    "id": 52,
+    "nom": "chapati thon",
+    "designation": "chapati thon",
+    "prix": "2 dt",
+    "categorieID": "11",
+    "imageMenu": "chapati thon.jpg",
+    "created_at": "2022-04-30T00:38:26.000000Z",
+    "updated_at": "2022-04-30T00:38:26.000000Z",
+    "categories": {
+      "id": 11,
+      "nomcategorie": "chapati",
+      "imagecategorie": "chapati.jpg",
+      "created_at": "2022-04-29T15:23:50.000000Z",
+      "updated_at": "2022-04-29T15:32:15.000000Z",
+      "typeId": 3
+    }
+  },
+  {
+    "id": 51,
+    "nom": "burgers au boeuf bacon et oeuf",
+    "designation": "burgers au boeuf bacon et oeuf",
+    "prix": "4 dt",
+    "categorieID": "13",
+    "imageMenu": "burgers-au-boeuf-bacon-et-oeuf.jpg",
+    "created_at": "2022-04-30T00:34:48.000000Z",
+    "updated_at": "2022-04-30T00:35:47.000000Z",
+    "categories": {
+      "id": 13,
+      "nomcategorie": "hamburger",
+      "imagecategorie": "hamburger.jpg",
+      "created_at": "2022-04-29T15:31:03.000000Z",
+      "updated_at": "2022-04-29T15:31:03.000000Z",
+      "typeId": 3
+    }
+  },
+  {
+    "id": 50,
+    "nom": "burger-au-bacon-et-au-cheddar",
+    "designation": "burger-au-bacon-et-au-cheddar",
+    "prix": "7.6 dt",
+    "categorieID": "13",
+    "imageMenu": "burger-au-bacon-et-au-cheddar.jpg",
+    "created_at": "2022-04-30T00:33:04.000000Z",
+    "updated_at": "2022-04-30T00:33:04.000000Z",
+    "categories": {
+      "id": 13,
+      "nomcategorie": "hamburger",
+      "imagecategorie": "hamburger.jpg",
+      "created_at": "2022-04-29T15:31:03.000000Z",
+      "updated_at": "2022-04-29T15:31:03.000000Z",
+      "typeId": 3
+    }
+  },
+  {
+    "id": 49,
+    "nom": "hamburger avec beouf et fromage",
+    "designation": "hamburger avec beouf et fromage",
+    "prix": "6 dt",
+    "categorieID": "13",
+    "imageMenu": "hamburger avec beouf et fromage.jpg",
+    "created_at": "2022-04-30T00:12:27.000000Z",
+    "updated_at": "2022-04-30T00:12:27.000000Z",
+    "categories": {
+      "id": 13,
+      "nomcategorie": "hamburger",
+      "imagecategorie": "hamburger.jpg",
+      "created_at": "2022-04-29T15:31:03.000000Z",
+      "updated_at": "2022-04-29T15:31:03.000000Z",
+      "typeId": 3
+    }
+  },
+  {
+    "id": 48,
+    "nom": "di",
+    "designation": "sandwich-salami-et-fromage-a-la-creme",
+    "prix": "3 dt",
+    "categorieID": "7",
+    "imageMenu": "sandwich jombon.jpg",
+    "created_at": "2022-04-29T23:57:58.000000Z",
+    "updated_at": "2022-04-29T23:57:58.000000Z",
+    "categories": {
+      "id": 7,
+      "nomcategorie": "sandwich",
+      "imagecategorie": "sandwich.jpg",
+      "created_at": "2022-04-29T15:17:21.000000Z",
+      "updated_at": "2022-04-29T15:37:05.000000Z",
+      "typeId": 3
+    }
+  },
+  {
+    "id": 47,
+    "nom": "sandwich jombon",
+    "designation": "sandwich jombon",
+    "prix": "4 dt",
+    "categorieID": "7",
+    "imageMenu": "sandwich jombon.jpg",
+    "created_at": "2022-04-29T23:50:54.000000Z",
+    "updated_at": "2022-04-29T23:50:54.000000Z",
+    "categories": {
+      "id": 7,
+      "nomcategorie": "sandwich",
+      "imagecategorie": "sandwich.jpg",
+      "created_at": "2022-04-29T15:17:21.000000Z",
+      "updated_at": "2022-04-29T15:37:05.000000Z",
+      "typeId": 3
+    }
+  },
+  {
+    "id": 46,
+    "nom": "sandwich thon",
+    "designation": "sandwich thon",
+    "prix": "5 dt",
+    "categorieID": "7",
+    "imageMenu": "sandwich thon.jpg",
+    "created_at": "2022-04-29T23:49:26.000000Z",
+    "updated_at": "2022-04-29T23:49:26.000000Z",
+    "categories": {
+      "id": 7,
+      "nomcategorie": "sandwich",
+      "imagecategorie": "sandwich.jpg",
+      "created_at": "2022-04-29T15:17:21.000000Z",
+      "updated_at": "2022-04-29T15:37:05.000000Z",
+      "typeId": 3
+    }
+  },
+  {
+    "id": 45,
+    "nom": "sandwich emlet",
+    "designation": "sandwich emlet",
+    "prix": "5 dt",
+    "categorieID": "7",
+    "imageMenu": "sandwich emlet.jpg",
+    "created_at": "2022-04-29T23:47:11.000000Z",
+    "updated_at": "2022-04-29T23:47:11.000000Z",
+    "categories": {
+      "id": 7,
+      "nomcategorie": "sandwich",
+      "imagecategorie": "sandwich.jpg",
+      "created_at": "2022-04-29T15:17:21.000000Z",
+      "updated_at": "2022-04-29T15:37:05.000000Z",
+      "typeId": 3
+    }
+  },
+  {
+    "id": 44,
+    "nom": "sandwich-à-la-viande",
+    "designation": "sandwich-à-la-viande",
+    "prix": "10 dt",
+    "categorieID": "7",
+    "imageMenu": "sandwich-à-la-viande.jpg",
+    "created_at": "2022-04-29T23:41:45.000000Z",
+    "updated_at": "2022-04-29T23:41:45.000000Z",
+    "categories": {
+      "id": 7,
+      "nomcategorie": "sandwich",
+      "imagecategorie": "sandwich.jpg",
+      "created_at": "2022-04-29T15:17:21.000000Z",
+      "updated_at": "2022-04-29T15:37:05.000000Z",
+      "typeId": 3
+    }
+  },
+  {
+    "id": 43,
+    "nom": "sandwich au poulet",
+    "designation": "sandwich au poulet grille",
+    "prix": "7 dt",
+    "categorieID": "7",
+    "imageMenu": "sandwich-au-poulet-grille.jpg",
+    "created_at": "2022-04-29T23:38:01.000000Z",
+    "updated_at": "2022-04-29T23:42:50.000000Z",
+    "categories": {
+      "id": 7,
+      "nomcategorie": "sandwich",
+      "imagecategorie": "sandwich.jpg",
+      "created_at": "2022-04-29T15:17:21.000000Z",
+      "updated_at": "2022-04-29T15:37:05.000000Z",
+      "typeId": 3
+    }
+  },
+  {
+    "id": 42,
+    "nom": "sandwich vegetarien",
+    "designation": "sandwich vegetarien",
+    "prix": "5 dt",
+    "categorieID": "7",
+    "imageMenu": "sandwich vegetarien.jpg",
+    "created_at": "2022-04-29T23:33:51.000000Z",
+    "updated_at": "2022-04-29T23:44:41.000000Z",
+    "categories": {
+      "id": 7,
+      "nomcategorie": "sandwich",
+      "imagecategorie": "sandwich.jpg",
+      "created_at": "2022-04-29T15:17:21.000000Z",
+      "updated_at": "2022-04-29T15:37:05.000000Z",
+      "typeId": 3
+    }
+  },
+  {
+    "id": 41,
+    "nom": "pizza  avec oeuf  et thon",
+    "designation": "pizza italienne  avec oeuf et oeuf",
+    "prix": "21dt",
+    "categorieID": "8",
+    "imageMenu": "pizza avec oeuf.jpg",
+    "created_at": "2022-04-29T23:24:48.000000Z",
+    "updated_at": "2022-04-29T23:29:05.000000Z",
+    "categories": {
+      "id": 8,
+      "nomcategorie": "pizza",
+      "imagecategorie": "pizza.jpg",
+      "created_at": "2022-04-29T15:20:18.000000Z",
+      "updated_at": "2022-04-29T15:36:38.000000Z",
+      "typeId": 3
+    }
+  },
+  {
+    "id": 40,
+    "nom": "pizza italienne avec oeuf",
+    "designation": "pizza italienne avec oeuf",
+    "prix": "14dt",
+    "categorieID": "8",
+    "imageMenu": "pizza italienne avec oeuf.jpg",
+    "created_at": "2022-04-29T23:18:21.000000Z",
+    "updated_at": "2022-04-29T23:18:21.000000Z",
+    "categories": {
+      "id": 8,
+      "nomcategorie": "pizza",
+      "imagecategorie": "pizza.jpg",
+      "created_at": "2022-04-29T15:20:18.000000Z",
+      "updated_at": "2022-04-29T15:36:38.000000Z",
+      "typeId": 3
+    }
+  },
+  {
+    "id": 39,
+    "nom": "pizzaboeuf hachèe",
+    "designation": "pizzaboeuf hachèe",
+    "prix": "16dt",
+    "categorieID": "8",
+    "imageMenu": "pizzaboeuf hachèe.jpg",
+    "created_at": "2022-04-29T23:14:36.000000Z",
+    "updated_at": "2022-04-29T23:14:36.000000Z",
+    "categories": {
+      "id": 8,
+      "nomcategorie": "pizza",
+      "imagecategorie": "pizza.jpg",
+      "created_at": "2022-04-29T15:20:18.000000Z",
+      "updated_at": "2022-04-29T15:36:38.000000Z",
+      "typeId": 3
+    }
+  },
+  {
+    "id": 38,
+    "nom": "pizza à la viande hachée et aux champignos",
+    "designation": "pizza à la viande hachée et aux champignosr",
+    "prix": "20dt",
+    "categorieID": "8",
+    "imageMenu": "pizza à la viande hachée et aux champignos.jpg",
+    "created_at": "2022-04-29T22:22:46.000000Z",
+    "updated_at": "2022-04-29T22:22:46.000000Z",
+    "categories": {
+      "id": 8,
+      "nomcategorie": "pizza",
+      "imagecategorie": "pizza.jpg",
+      "created_at": "2022-04-29T15:20:18.000000Z",
+      "updated_at": "2022-04-29T15:36:38.000000Z",
+      "typeId": 3
+    }
+  },
+  {
+    "id": 37,
+    "nom": "pizza aux fruits de mer",
+    "designation": "pizza aux fruits de mer",
+    "prix": "18dt",
+    "categorieID": "8",
+    "imageMenu": "pizza-aux-fruits-de-mer.jpg",
+    "created_at": "2022-04-29T22:20:17.000000Z",
+    "updated_at": "2022-04-29T22:20:17.000000Z",
+    "categories": {
+      "id": 8,
+      "nomcategorie": "pizza",
+      "imagecategorie": "pizza.jpg",
+      "created_at": "2022-04-29T15:20:18.000000Z",
+      "updated_at": "2022-04-29T15:36:38.000000Z",
+      "typeId": 3
+    }
+  },
+  {
+    "id": 36,
+    "nom": "pizza tomate",
+    "designation": "pizza à pepperoni, tomate et mozzarila",
+    "prix": "14dt",
+    "categorieID": "8",
+    "imageMenu": "pizza-pepperoni-tomate-mozza.jpg",
+    "created_at": "2022-04-29T22:17:39.000000Z",
+    "updated_at": "2022-04-29T22:17:39.000000Z",
+    "categories": {
+      "id": 8,
+      "nomcategorie": "pizza",
+      "imagecategorie": "pizza.jpg",
+      "created_at": "2022-04-29T15:20:18.000000Z",
+      "updated_at": "2022-04-29T15:36:38.000000Z",
+      "typeId": 3
+    }
+  },
+  {
+    "id": 35,
+    "nom": "pizza au thon",
+    "designation": "pizza au thon",
+    "prix": "16.5dt",
+    "categorieID": "8",
+    "imageMenu": "pizza au thon.jpg",
+    "created_at": "2022-04-29T22:15:34.000000Z",
+    "updated_at": "2022-04-29T22:15:34.000000Z",
+    "categories": {
+      "id": 8,
+      "nomcategorie": "pizza",
+      "imagecategorie": "pizza.jpg",
+      "created_at": "2022-04-29T15:20:18.000000Z",
+      "updated_at": "2022-04-29T15:36:38.000000Z",
+      "typeId": 3
+    }
+  },
+  {
+    "id": 34,
+    "nom": "pizza jombon",
+    "designation": "pizza avec jombon",
+    "prix": "15dt",
+    "categorieID": "8",
+    "imageMenu": "pizza_jombon.jpg",
+    "created_at": "2022-04-29T22:13:25.000000Z",
+    "updated_at": "2022-04-29T22:13:25.000000Z",
+    "categories": {
+      "id": 8,
+      "nomcategorie": "pizza",
+      "imagecategorie": "pizza.jpg",
+      "created_at": "2022-04-29T15:20:18.000000Z",
+      "updated_at": "2022-04-29T15:36:38.000000Z",
+      "typeId": 3
+    }
+  },
+  {
+    "id": 33,
+    "nom": "croissant chocolat",
+    "designation": "croissant chocolat",
+    "prix": "1dt",
+    "categorieID": "6",
+    "imageMenu": "croissant choc.jpg",
+    "created_at": "2022-04-29T22:06:24.000000Z",
+    "updated_at": "2022-04-29T22:06:24.000000Z",
+    "categories": {
+      "id": 6,
+      "nomcategorie": "croissants",
+      "imagecategorie": "-croissants-croissant-recipe.jpg",
+      "created_at": "2022-04-29T15:10:02.000000Z",
+      "updated_at": "2022-04-29T15:10:02.000000Z",
+      "typeId": 1
+    }
+  },
+  {
+    "id": 32,
+    "nom": "croissant aux amandes",
+    "designation": "croissant aux amandes",
+    "prix": "1dt",
+    "categorieID": "6",
+    "imageMenu": "croissant aux amandes.jpg",
+    "created_at": "2022-04-29T22:05:02.000000Z",
+    "updated_at": "2022-04-29T22:05:02.000000Z",
+    "categories": {
+      "id": 6,
+      "nomcategorie": "croissants",
+      "imagecategorie": "-croissants-croissant-recipe.jpg",
+      "created_at": "2022-04-29T15:10:02.000000Z",
+      "updated_at": "2022-04-29T15:10:02.000000Z",
+      "typeId": 1
+    }
+  },
+  {
+    "id": 31,
+    "nom": "waffel à souse chocolat et framboise",
+    "designation": "waffel à souse chocolat et framboise",
+    "prix": "3dt",
+    "categorieID": "2",
+    "imageMenu": "waffel.jpg",
+    "created_at": "2022-04-29T22:03:38.000000Z",
+    "updated_at": "2022-04-29T22:03:38.000000Z",
+    "categories": {
+      "id": 2,
+      "nomcategorie": "waffel",
+      "imagecategorie": "waffel.jpg",
+      "created_at": "2022-04-29T15:03:30.000000Z",
+      "updated_at": "2022-04-29T15:03:30.000000Z",
+      "typeId": 1
+    }
+  },
+  {
+    "id": 30,
+    "nom": "pizza à la viande hachée et aux champignos",
+    "designation": "pizza à la viande hachée et aux champignons",
+    "prix": "20dt",
+    "categorieID": "8",
+    "imageMenu": "pizza à la viande hachée et aux champignos.jpg",
+    "created_at": "2022-04-29T22:00:58.000000Z",
+    "updated_at": "2022-04-29T23:10:00.000000Z",
+    "categories": {
+      "id": 8,
+      "nomcategorie": "pizza",
+      "imagecategorie": "pizza.jpg",
+      "created_at": "2022-04-29T15:20:18.000000Z",
+      "updated_at": "2022-04-29T15:36:38.000000Z",
+      "typeId": 3
+    }
+  },
+  {
+    "id": 29,
+    "nom": "waffel à sauce cramel",
+    "designation": "waffel à sauce cramel",
+    "prix": "3dt",
+    "categorieID": "2",
+    "imageMenu": "waffel à sauce cramel.jpg",
+    "created_at": "2022-04-29T21:57:54.000000Z",
+    "updated_at": "2022-04-29T21:57:54.000000Z",
+    "categories": {
+      "id": 2,
+      "nomcategorie": "waffel",
+      "imagecategorie": "waffel.jpg",
+      "created_at": "2022-04-29T15:03:30.000000Z",
+      "updated_at": "2022-04-29T15:03:30.000000Z",
+      "typeId": 1
+    }
+  },
+  {
+    "id": 28,
+    "nom": "waffelavec  fraise",
+    "designation": "waffel avec creme et fraise",
+    "prix": "2.7dt",
+    "categorieID": "2",
+    "imageMenu": "waffel fraise.jpg",
+    "created_at": "2022-04-29T21:56:25.000000Z",
+    "updated_at": "2022-04-29T21:56:25.000000Z",
+    "categories": {
+      "id": 2,
+      "nomcategorie": "waffel",
+      "imagecategorie": "waffel.jpg",
+      "created_at": "2022-04-29T15:03:30.000000Z",
+      "updated_at": "2022-04-29T15:03:30.000000Z",
+      "typeId": 1
+    }
+  },
+  {
+    "id": 27,
+    "nom": "cupcakes  fraise",
+    "designation": "cupcakes  fraise",
+    "prix": "2dt",
+    "categorieID": "14",
+    "imageMenu": "cupcakes  fraise.jpg",
+    "created_at": "2022-04-29T21:50:02.000000Z",
+    "updated_at": "2022-04-29T21:50:02.000000Z",
+    "categories": {
+      "id": 14,
+      "nomcategorie": "cupcakes",
+      "imagecategorie": "cupcake.jpg",
+      "created_at": "2022-04-29T21:24:38.000000Z",
+      "updated_at": "2022-04-29T21:52:47.000000Z",
+      "typeId": 1
+    }
+  },
+  {
+    "id": 26,
+    "nom": "cupcake nutella",
+    "designation": "cupcake nutella",
+    "prix": "2dt",
+    "categorieID": "14",
+    "imageMenu": "cupcake-nutella.jpg",
+    "created_at": "2022-04-29T21:46:57.000000Z",
+    "updated_at": "2022-04-29T21:47:15.000000Z",
+    "categories": {
+      "id": 14,
+      "nomcategorie": "cupcakes",
+      "imagecategorie": "cupcake.jpg",
+      "created_at": "2022-04-29T21:24:38.000000Z",
+      "updated_at": "2022-04-29T21:52:47.000000Z",
+      "typeId": 1
+    }
+  },
+  {
+    "id": 25,
+    "nom": "cupcake kinder bueno",
+    "designation": "cupcake kinder bueno",
+    "prix": "3dt",
+    "categorieID": "14",
+    "imageMenu": "cupcake-kinder-bueno-3-sur-4.jpg",
+    "created_at": "2022-04-29T21:44:19.000000Z",
+    "updated_at": "2022-04-29T21:44:19.000000Z",
+    "categories": {
+      "id": 14,
+      "nomcategorie": "cupcakes",
+      "imagecategorie": "cupcake.jpg",
+      "created_at": "2022-04-29T21:24:38.000000Z",
+      "updated_at": "2022-04-29T21:52:47.000000Z",
+      "typeId": 1
+    }
+  },
+  {
+    "id": 24,
+    "nom": "cupcakes oreo",
+    "designation": "cupcakes oreo",
+    "prix": "3dt",
+    "categorieID": "14",
+    "imageMenu": "Cupcakes-oreo-recette-Lilie-Bakery.jpg",
+    "created_at": "2022-04-29T21:41:01.000000Z",
+    "updated_at": "2022-04-29T21:41:01.000000Z",
+    "categories": {
+      "id": 14,
+      "nomcategorie": "cupcakes",
+      "imagecategorie": "cupcake.jpg",
+      "created_at": "2022-04-29T21:24:38.000000Z",
+      "updated_at": "2022-04-29T21:52:47.000000Z",
+      "typeId": 1
+    }
+  },
+  {
+    "id": 23,
+    "nom": "cupcakes à l'amande",
+    "designation": "cupcakes à l'amande",
+    "prix": "2.5dt",
+    "categorieID": "14",
+    "imageMenu": "cupcakes à l'amande.jpg",
+    "created_at": "2022-04-29T21:37:00.000000Z",
+    "updated_at": "2022-04-29T21:37:00.000000Z",
+    "categories": {
+      "id": 14,
+      "nomcategorie": "cupcakes",
+      "imagecategorie": "cupcake.jpg",
+      "created_at": "2022-04-29T21:24:38.000000Z",
+      "updated_at": "2022-04-29T21:52:47.000000Z",
+      "typeId": 1
+    }
+  },
+  {
+    "id": 22,
+    "nom": "cupcakes caramel et maltesers",
+    "designation": "cupcakes caramel et maltesers",
+    "prix": "3dt",
+    "categorieID": "14",
+    "imageMenu": "cupcakes-caramel-et-maltesers.jpg",
+    "created_at": "2022-04-29T21:35:55.000000Z",
+    "updated_at": "2022-04-29T21:35:55.000000Z",
+    "categories": {
+      "id": 14,
+      "nomcategorie": "cupcakes",
+      "imagecategorie": "cupcake.jpg",
+      "created_at": "2022-04-29T21:24:38.000000Z",
+      "updated_at": "2022-04-29T21:52:47.000000Z",
+      "typeId": 1
+    }
+  },
+  {
+    "id": 21,
+    "nom": "cupcakes aux noisettes et chocolat",
+    "designation": "cupcakes aux noisettes et chocolats",
+    "prix": "3dt",
+    "categorieID": "14",
+    "imageMenu": "cupcakes aux noisettes et chocolat.jpg",
+    "created_at": "2022-04-29T21:34:04.000000Z",
+    "updated_at": "2022-04-29T21:34:04.000000Z",
+    "categories": {
+      "id": 14,
+      "nomcategorie": "cupcakes",
+      "imagecategorie": "cupcake.jpg",
+      "created_at": "2022-04-29T21:24:38.000000Z",
+      "updated_at": "2022-04-29T21:52:47.000000Z",
+      "typeId": 1
+    }
+  },
+  {
+    "id": 20,
+    "nom": "cupcakes au vanille",
+    "designation": "Classic Vanilla Cupcakes",
+    "prix": "2dt",
+    "categorieID": "14",
+    "imageMenu": "Classic-Vanilla-Cupcakes-CMS.jpg",
+    "created_at": "2022-04-29T21:32:03.000000Z",
+    "updated_at": "2022-04-29T21:32:03.000000Z",
+    "categories": {
+      "id": 14,
+      "nomcategorie": "cupcakes",
+      "imagecategorie": "cupcake.jpg",
+      "created_at": "2022-04-29T21:24:38.000000Z",
+      "updated_at": "2022-04-29T21:52:47.000000Z",
+      "typeId": 1
+    }
+  },
+  {
+    "id": 19,
+    "nom": "cupcakes au chocolat",
+    "designation": "cupcakes au chocolat",
+    "prix": "2.3 dt",
+    "categorieID": "14",
+    "imageMenu": "cup cake au chocolat.png",
+    "created_at": "2022-04-29T21:25:46.000000Z",
+    "updated_at": "2022-04-29T21:27:49.000000Z",
+    "categories": {
+      "id": 14,
+      "nomcategorie": "cupcakes",
+      "imagecategorie": "cupcake.jpg",
+      "created_at": "2022-04-29T21:24:38.000000Z",
+      "updated_at": "2022-04-29T21:52:47.000000Z",
+      "typeId": 1
+    }
+  },
+  {
+    "id": 18,
+    "nom": "cheesecake au chocolat",
+    "designation": "cheesecake au chocolat",
+    "prix": "6 dt",
+    "categorieID": "4",
+    "imageMenu": "cheesecake-chocolat.jpg",
+    "created_at": "2022-04-29T21:20:33.000000Z",
+    "updated_at": "2022-04-29T21:20:33.000000Z",
+    "categories": {
+      "id": 4,
+      "nomcategorie": "cheesecake",
+      "imagecategorie": "cheesecake.jpg",
+      "created_at": "2022-04-29T15:06:26.000000Z",
+      "updated_at": "2022-04-29T15:06:26.000000Z",
+      "typeId": 1
+    }
+  },
+  {
+    "id": 17,
+    "nom": "cheesecake au fraise",
+    "designation": "cheesecake au fraise",
+    "prix": "5.4 dt",
+    "categorieID": "4",
+    "imageMenu": "cheesecake-frese.jpg",
+    "created_at": "2022-04-29T21:16:53.000000Z",
+    "updated_at": "2022-04-29T21:16:53.000000Z",
+    "categories": {
+      "id": 4,
+      "nomcategorie": "cheesecake",
+      "imagecategorie": "cheesecake.jpg",
+      "created_at": "2022-04-29T15:06:26.000000Z",
+      "updated_at": "2022-04-29T15:06:26.000000Z",
+      "typeId": 1
+    }
+  },
+  {
+    "id": 16,
+    "nom": "cheesecake au cafe",
+    "designation": "cheesecake-au-cafe-sauces-chocolat-et-caramel",
+    "prix": "5.4 dt",
+    "categorieID": "4",
+    "imageMenu": "cheesecake-au-cafe-sauces-chocolat-et-caramel.jpg",
+    "created_at": "2022-04-29T20:58:12.000000Z",
+    "updated_at": "2022-04-29T21:00:58.000000Z",
+    "categories": {
+      "id": 4,
+      "nomcategorie": "cheesecake",
+      "imagecategorie": "cheesecake.jpg",
+      "created_at": "2022-04-29T15:06:26.000000Z",
+      "updated_at": "2022-04-29T15:06:26.000000Z",
+      "typeId": 1
+    }
+  },
+  {
+    "id": 15,
+    "nom": "cheesecake sauce caramel",
+    "designation": "cheesecake sauce caramel",
+    "prix": "6 dt",
+    "categorieID": "4",
+    "imageMenu": "cheesecake-sauce-caramel.jpeg",
+    "created_at": "2022-04-29T20:56:39.000000Z",
+    "updated_at": "2022-04-29T21:19:19.000000Z",
+    "categories": {
+      "id": 4,
+      "nomcategorie": "cheesecake",
+      "imagecategorie": "cheesecake.jpg",
+      "created_at": "2022-04-29T15:06:26.000000Z",
+      "updated_at": "2022-04-29T15:06:26.000000Z",
+      "typeId": 1
+    }
+  },
+  {
+    "id": 14,
+    "nom": "cheesecake spéculoos",
+    "designation": "cheesecake spéculoos",
+    "prix": "5.6 dt",
+    "categorieID": "4",
+    "imageMenu": "cheesecake spéculoos.jpg",
+    "created_at": "2022-04-29T20:53:59.000000Z",
+    "updated_at": "2022-04-29T20:53:59.000000Z",
+    "categories": {
+      "id": 4,
+      "nomcategorie": "cheesecake",
+      "imagecategorie": "cheesecake.jpg",
+      "created_at": "2022-04-29T15:06:26.000000Z",
+      "updated_at": "2022-04-29T15:06:26.000000Z",
+      "typeId": 1
+    }
+  },
+  {
+    "id": 13,
+    "nom": "cheesecake aux fruits rouges",
+    "designation": "cheesecake aux fruits rouges super",
+    "prix": "6 dt",
+    "categorieID": "4",
+    "imageMenu": "cheesecake-aux-fruits-rouges-super-facile.jpeg",
+    "created_at": "2022-04-29T20:51:21.000000Z",
+    "updated_at": "2022-04-29T20:54:48.000000Z",
+    "categories": {
+      "id": 4,
+      "nomcategorie": "cheesecake",
+      "imagecategorie": "cheesecake.jpg",
+      "created_at": "2022-04-29T15:06:26.000000Z",
+      "updated_at": "2022-04-29T15:06:26.000000Z",
+      "typeId": 1
+    }
+  },
+  {
+    "id": 12,
+    "nom": "cheesecake Citron",
+    "designation": "cheesecake Citron",
+    "prix": "5 dt",
+    "categorieID": "4",
+    "imageMenu": "cheesecakeCitron.jpg",
+    "created_at": "2022-04-29T20:49:06.000000Z",
+    "updated_at": "2022-04-29T20:49:06.000000Z",
+    "categories": {
+      "id": 4,
+      "nomcategorie": "cheesecake",
+      "imagecategorie": "cheesecake.jpg",
+      "created_at": "2022-04-29T15:06:26.000000Z",
+      "updated_at": "2022-04-29T15:06:26.000000Z",
+      "typeId": 1
+    }
+  },
+  {
+    "id": 11,
+    "nom": "cheesecake au ail et des-ours",
+    "designation": "cheese-cake-ail-des-ours",
+    "prix": "5.5 dt",
+    "categorieID": "4",
+    "imageMenu": "cheese-cake-ail-des-ours.jpg",
+    "created_at": "2022-04-29T20:48:03.000000Z",
+    "updated_at": "2022-04-29T20:48:03.000000Z",
+    "categories": {
+      "id": 4,
+      "nomcategorie": "cheesecake",
+      "imagecategorie": "cheesecake.jpg",
+      "created_at": "2022-04-29T15:06:26.000000Z",
+      "updated_at": "2022-04-29T15:06:26.000000Z",
+      "typeId": 1
+    }
+  },
+  {
+    "id": 10,
+    "nom": "cheesecake a Lotus Biscoff",
+    "designation": "cheesecake décadent à base de Lotus Biscuit,crémeux Lotus Biscoff et Lotus Biscoff",
+    "prix": "6 dt",
+    "categorieID": "4",
+    "imageMenu": "cheesecake a-Lotus-Biscoff-.jpg",
+    "created_at": "2022-04-29T20:45:02.000000Z",
+    "updated_at": "2022-04-29T20:46:18.000000Z",
+    "categories": {
+      "id": 4,
+      "nomcategorie": "cheesecake",
+      "imagecategorie": "cheesecake.jpg",
+      "created_at": "2022-04-29T15:06:26.000000Z",
+      "updated_at": "2022-04-29T15:06:26.000000Z",
+      "typeId": 1
+    }
+  },
+  {
+    "id": 9,
+    "nom": "gateaux au fruit frais",
+    "designation": "gateau-d'anniversaire-aux-fruits-frais",
+    "prix": "3 dt",
+    "categorieID": "5",
+    "imageMenu": "gateau-d'anniversaire-aux-fruits-frais.jpg",
+    "created_at": "2022-04-29T20:31:40.000000Z",
+    "updated_at": "2022-04-29T20:31:40.000000Z",
+    "categories": {
+      "id": 5,
+      "nomcategorie": "gateaux",
+      "imagecategorie": "gateaux.jpg",
+      "created_at": "2022-04-29T15:07:15.000000Z",
+      "updated_at": "2022-04-29T15:07:15.000000Z",
+      "typeId": 1
+    }
+  },
+  {
+    "id": 8,
+    "nom": "gateaux fraise",
+    "designation": "gateaux fraise",
+    "prix": "2.5 dt",
+    "categorieID": "5",
+    "imageMenu": "gateaux fraise.jpg",
+    "created_at": "2022-04-29T20:30:47.000000Z",
+    "updated_at": "2022-04-29T20:30:47.000000Z",
+    "categories": {
+      "id": 5,
+      "nomcategorie": "gateaux",
+      "imagecategorie": "gateaux.jpg",
+      "created_at": "2022-04-29T15:07:15.000000Z",
+      "updated_at": "2022-04-29T15:07:15.000000Z",
+      "typeId": 1
+    }
+  },
+  {
+    "id": 7,
+    "nom": "gateaux russe",
+    "designation": "gateau-russe-aux-pistaches-et framboise",
+    "prix": "4.5 dt",
+    "categorieID": "5",
+    "imageMenu": "gateau-russe-aux-pistaches-et framboise.jpg",
+    "created_at": "2022-04-29T20:29:58.000000Z",
+    "updated_at": "2022-04-29T20:29:58.000000Z",
+    "categories": {
+      "id": 5,
+      "nomcategorie": "gateaux",
+      "imagecategorie": "gateaux.jpg",
+      "created_at": "2022-04-29T15:07:15.000000Z",
+      "updated_at": "2022-04-29T15:07:15.000000Z",
+      "typeId": 1
+    }
+  },
+  {
+    "id": 6,
+    "nom": "gateaux au pistache et chocolat",
+    "designation": "gateaux au pistache et chocolat",
+    "prix": "4.5 dt",
+    "categorieID": "5",
+    "imageMenu": "gateaux au pistache. chocolatjpg.jpg",
+    "created_at": "2022-04-29T20:28:42.000000Z",
+    "updated_at": "2022-04-29T20:28:42.000000Z",
+    "categories": {
+      "id": 5,
+      "nomcategorie": "gateaux",
+      "imagecategorie": "gateaux.jpg",
+      "created_at": "2022-04-29T15:07:15.000000Z",
+      "updated_at": "2022-04-29T15:07:15.000000Z",
+      "typeId": 1
+    }
+  },
+  {
+    "id": 5,
+    "nom": "gateaux au pistache",
+    "designation": "gateaux au pistache",
+    "prix": "4.5 dt",
+    "categorieID": "5",
+    "imageMenu": "gateaux au pistache.jpg",
+    "created_at": "2022-04-29T20:27:21.000000Z",
+    "updated_at": "2022-04-29T20:27:21.000000Z",
+    "categories": {
+      "id": 5,
+      "nomcategorie": "gateaux",
+      "imagecategorie": "gateaux.jpg",
+      "created_at": "2022-04-29T15:07:15.000000Z",
+      "updated_at": "2022-04-29T15:07:15.000000Z",
+      "typeId": 1
+    }
+  },
+  {
+    "id": 4,
+    "nom": "gateaux au chocolat et noisette",
+    "designation": "gateau-au-chocolat-et-aux-noisettes-avec-cinq-couches-de-biscuit-et-de-creme-glacage-au-chocolat-sur-le-dessus-et-noix-entieres-de-piemont-servi",
+    "prix": "4.5 dt",
+    "categorieID": "5",
+    "imageMenu": "gateau-au-chocolat-et-aux-noisettes-avec-cinq-couches-de-biscuit-et-de-creme-glacage-au-chocolat-sur-le-dessus-et-noix-entieres-de-piemont-servi-et-decore-avec-du-cof-2hjr7ef.jpg",
+    "created_at": "2022-04-29T20:26:42.000000Z",
+    "updated_at": "2022-04-29T20:26:42.000000Z",
+    "categories": {
+      "id": 5,
+      "nomcategorie": "gateaux",
+      "imagecategorie": "gateaux.jpg",
+      "created_at": "2022-04-29T15:07:15.000000Z",
+      "updated_at": "2022-04-29T15:07:15.000000Z",
+      "typeId": 1
+    }
+  },
+  {
+    "id": 3,
+    "nom": "gateaux au chocolat et cerise",
+    "designation": "un-morceau-de-gâteau-chocolat-avec-les-cerises-et-la-noisette-sur-le-fond-blanc-gâteaux-délicieux-plan-rapp-rapproché",
+    "prix": "3.7 dt",
+    "categorieID": "5",
+    "imageMenu": "un-morceau-de-gâteau-chocolat-avec-les-cerises-et-la-noisette-sur-le-fond-blanc-gâteaux-délicieux-plan-rapp-rapproché-table-140012370.jpg",
+    "created_at": "2022-04-29T20:23:54.000000Z",
+    "updated_at": "2022-04-29T20:25:05.000000Z",
+    "categories": {
+      "id": 5,
+      "nomcategorie": "gateaux",
+      "imagecategorie": "gateaux.jpg",
+      "created_at": "2022-04-29T15:07:15.000000Z",
+      "updated_at": "2022-04-29T15:07:15.000000Z",
+      "typeId": 1
+    }
+  },
+  {
+    "id": 2,
+    "nom": "gateaux au chocolat",
+    "designation": "gateau tout chocolat",
+    "prix": "2.5 dt",
+    "categorieID": "5",
+    "imageMenu": "gateau-tout-chocolat.jpg",
+    "created_at": "2022-04-29T20:15:06.000000Z",
+    "updated_at": "2022-04-29T20:18:59.000000Z",
+    "categories": {
+      "id": 5,
+      "nomcategorie": "gateaux",
+      "imagecategorie": "gateaux.jpg",
+      "created_at": "2022-04-29T15:07:15.000000Z",
+      "updated_at": "2022-04-29T15:07:15.000000Z",
+      "typeId": 1
+    }
+  }
+]
